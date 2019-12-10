@@ -1,0 +1,11 @@
+.navbar {
+    display: flex;
+    background-color: #ff6a00;
+    justify-content: space-around;
+}
+.navbar p {
+    display: grid;
+    flex-direction: row;
+    justify-content: space-evenly;
+    cursor: pointer;
+}
